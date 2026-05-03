@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Dilsha%20Jayasekara&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0c2340&height=120&text=Dilsha%20Jayasekara&fontColor=ffffff&fontSize=55" width="100%" alt="Dilsha Jayasekara" />
+
+  <br/>
 
   <h3> 🎓 Software Engineering Undergraduate at University of Kelaniya </h3>
 
