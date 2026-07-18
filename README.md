@@ -16,7 +16,7 @@ Hello! I'm **Dilsha Jayasekara**, a dedicated Software Engineering undergraduate
 
 - 🎓 **Education:** Pursuing B.Sc. (Hons) in Software Engineering.
 - 🚀 **Mission:** Building scalable, user-friendly, and efficient software.
-- 🛠️ **Current Focus:** Deep diving into Full-Stack development (MERN Stack) and backend architecture.
+- 🛠️ **Current Focus:** Deep diving into Full-Stack development and backend architecture.
 - 🌱 **Learning:** Always expanding my knowledge in system design and clean code practices.
 
 ---
